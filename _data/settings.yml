@@ -3,9 +3,9 @@
 
 menu:
 - {name: 'Box', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'Updates', url: 'pages/blog.html'}
 - {name: 'Info', url: 'pages/about.html'}
-- {name: 'Contact', url: 'pages/contact.html'}
+#- {name: 'Contact', url: 'pages/contact.html'}
 - {name: 'Shop', external_url: 'https://keikju.bigcartel.com/'}
 
 #-------------------------------
@@ -43,8 +43,10 @@ disqus:
 about: >
   # Hello
 
+I draw. Here be my stuff.
 
-contact: >
+
+#contact: >
   # Contact
 
 
