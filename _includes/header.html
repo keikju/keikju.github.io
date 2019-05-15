@@ -5,9 +5,9 @@
   <nav>
     {% for item in site.data.settings.menu %}
     <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
-    {% if item in site.data.settings.menu.external_url %}
-    <a href="{{item.external_url}}" target="_blank">{{ item.name }}</a>
-    {% endif %}
     {% endfor %}
+    {% if item in site.data.settings.menu == "external_url"}
+    <a href="{{ item.url }}">{{ item.name }}</a>
+    {% endif %}
   </nav>
 </header>
