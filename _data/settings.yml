@@ -5,7 +5,7 @@ menu:
 #- {name: 'Box', url: ''}
 - {name: 'BLOG', url: 'pages/blog.html'}
 - {name: 'INFO', url: 'pages/about.html'}
-#- {name: 'CONTACT', url: 'pages/contact.html'}
+- {name: 'CONTACT', url: 'pages/contact.html'}
 - {name: 'SHOP', url: 'pages/shop.html'}
 
 #-------------------------------
