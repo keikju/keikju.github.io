@@ -6,7 +6,7 @@ animation: "bounceOut"
 
 accent: "#FFA600"
 
-textColor: "#666"
+textColor: "#fff"
 headlineColor: "#333"
 bgcolor: "#e5eaee"
-documentBackgroundColor: "#fff"
+documentBackgroundColor: "#000"
