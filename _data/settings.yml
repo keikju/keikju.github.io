@@ -5,7 +5,6 @@ menu:
 #- {name: 'Box', url: ''}
 - {name: 'BLOG', url: 'pages/blog.html'}
 - {name: 'INFO', url: 'pages/about.html'}
-- {name: 'CONTACT', url: 'pages/contact.html'}
 - {name: 'SHOP', url: 'pages/shop.html'}
 
 #-------------------------------
@@ -41,9 +40,10 @@ disqus:
 # About Section
 
 about: >
-  # Hello
 
   I draw. Here be my stuff.
+
+  <sub><sup> Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.</sub></sup>
 
 
 contact: >
