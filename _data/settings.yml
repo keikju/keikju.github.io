@@ -71,3 +71,5 @@ social:
 - {icon: 'envelope', link: 'mailto:keikju@pm.me'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
+footer: this is a footer
