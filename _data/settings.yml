@@ -43,14 +43,6 @@ about: >
 
   I draw. Here be my stuff.
 
-  <br>
-
-  <sub><sup>
-
-  Except where otherwise noted, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
-
-  </sub></sup>
-
 
 contact: >
   # Contact
@@ -60,7 +52,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'sketch', folder: 'sketch', file: 'projects/sketch.html'}
+- {name: 'sketch', folder: 'sketch', file: 'projects/sketch.md'}
 - {name: '', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: '', folder: 'proj-3', file: 'projects/proj-3.html'}
 #- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
