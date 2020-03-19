@@ -39,9 +39,10 @@ disqus:
 #-------------------------------
 # About Section
 
-#about: >
+about: >
 
-  #I draw. Here be my stuff.
+  I draw. Here be my stuff. Please enjoy.
+
 
 
 contact: >
@@ -52,7 +53,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'sketch', folder: 'sketch', file: 'projects/sketch.md'}
+- {name: 'sketch', folder: 'sketch', file: 'projects/sketch.html'}
 - {name: '', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: '', folder: 'proj-3', file: 'projects/proj-3.html'}
 #- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
