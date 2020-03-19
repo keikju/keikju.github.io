@@ -7,4 +7,7 @@
     <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
   </nav>
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+  {% endif %}
 </header>
