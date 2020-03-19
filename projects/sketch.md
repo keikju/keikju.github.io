@@ -3,7 +3,7 @@ layout: post
 title: 'SKETCH'
 ---
 
-![alt text](projects/sketch/20170212-1.png)
+![alt text](assets/img/projects/sketch/20170212-1.png)
 
 ![alt text](projects/sketch/20170212-2.png)
 
