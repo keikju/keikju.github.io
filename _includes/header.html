@@ -7,12 +7,12 @@
     <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
   </nav>
-  <span>[
-    {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">
-        <nobr>{{ tag_name }}</nobr>
-      </code>&nbsp;</a>
-    {% endfor %}
-    ]</span>
+  <span><small>[
+      {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">
+          <nobr>{{ tag_name }}</nobr>
+        </code>&nbsp;</a>
+      {% endfor %}
+      ]</small></span>
 </header>
