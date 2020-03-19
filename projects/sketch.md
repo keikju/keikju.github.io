@@ -3,12 +3,12 @@ layout: post
 title: 'SKETCH'
 ---
 
-{% include image.html image="projects/sketch/20170212-1.png" %}
+![alt text](projects/sketch/20170212-1.png)
 
-{% include image.html image="projects/sketch/20170212-2.png" %}
+![alt text](projects/sketch/20170212-2.png)
 
-{% include image.html image="projects/sketch/20170215-2.png" %}
+![alt text](projects/sketch/20170215-2.png)
 
-{% include image.html image="projects/sketch/20170216.png" %}
+![alt text](projects/sketch/20170216.png)
 
-{% include image.html image="projects/sketch/20170218.png" %}
+![alt text](projects/sketch/20170218.png)
