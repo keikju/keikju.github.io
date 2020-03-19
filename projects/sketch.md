@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sketch'
+title: 'SKETCH'
 ---
 
 {% include image="projects/sketch/20170212-1.png" %}
