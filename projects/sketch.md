@@ -3,7 +3,7 @@ layout: post
 title: 'SKETCH'
 ---
 
-{% include image="projects/sketch/20170212-1.png" %}
+{% include image.html image="projects/sketch/20170212-1.png" %}
 
 {% include image.html image="projects/sketch/20170212-2.png" %}
 
