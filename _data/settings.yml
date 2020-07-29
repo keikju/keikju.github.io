@@ -3,7 +3,7 @@
 
 menu:
 #- {name: 'Box', url: ''}
-- {name: 'BLOG', link: 'https://kei-kju.tumblr.com'}
+- {name: 'BLOG', url: 'pages/log.html'}
 - {name: 'INFO', url: 'pages/about.html'}
 - {name: 'SHOP', url: 'pages/shop.html'}
 
