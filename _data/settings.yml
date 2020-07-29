@@ -5,7 +5,7 @@ menu:
 #- {name: 'Box', url: ''}
 - {name: 'BLOG', url: 'pages/log.html'}
 - {name: 'INFO', url: 'pages/about.html'}
-- {name: 'SHOP', url: 'pages/shop.html'}
+#- {name: 'SHOP', url: 'pages/shop.html'}
 
 #-------------------------------
 # SEO Section
@@ -61,9 +61,9 @@ projects:
 social:
 - {icon: 'twitter', link: 'https://twitter.com/kei_kju'}
 - {icon: 'instagram', link: 'https://www.instagram.com/keikju/'}
-- {icon: 'github', link: 'https://github.com/keikju'}
+#- {icon: 'github', link: 'https://github.com/keikju'}
 - {icon: 'twitch', link: 'https://www.twitch.tv/acheesewedge'}
-- {icon: 'tumblr', link: 'https://kei-kju.tumblr.com'}
+#- {icon: 'tumblr', link: 'https://kei-kju.tumblr.com'}
 - {icon: 'envelope', link: 'mailto:keikju@pm.me'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
