@@ -64,7 +64,7 @@ social:
 - {icon: 'twitch', link: 'https://www.twitch.tv/keikju'}
 - {icon: 'tumblr', link: 'https://kei-kju.tumblr.com'}
 - {icon: 'lastfm', link: 'https://www.last.fm/user/mcapp'}
-- {icon: 'envelope', link: 'mailto:keikju@pm.me'}
+# {icon: 'envelope', link: 'mailto:keikju@pm.me'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
